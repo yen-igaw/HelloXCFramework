@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "HelloXCFramework_Yen"
-    s.version      = "0.0.3"
+    s.version      = "0.0.4"
     s.summary      = "A brief description of MyFramework project."
     s.homepage     = "https://adbrix.vn"
     
@@ -19,5 +19,5 @@ Pod::Spec.new do |s|
      s.ios.deployment_target  = "9.0"
       
      # Published binaries
-     s.vendored_frameworks = "HelloXCFramework_Yen.xcframework"
+     s.vendored_frameworks = "AdBrixRM_XC.xcframework"
     end
