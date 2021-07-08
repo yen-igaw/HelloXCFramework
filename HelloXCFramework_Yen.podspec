@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "HelloXCFramework_Yen"
-    s.version      = "0.0.2"
+    s.version      = "0.0.3"
     s.summary      = "A brief description of MyFramework project."
     s.homepage     = "https://adbrix.vn"
     
