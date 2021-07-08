@@ -19,5 +19,5 @@ Pod::Spec.new do |s|
      s.ios.deployment_target  = "9.0"
       
      # Published binaries
-     s.ios.vendored_frameworks = "HelloXCFramework_Yen.xcframework"
+     s.vendored_frameworks = "HelloXCFramework_Yen.xcframework"
     end
